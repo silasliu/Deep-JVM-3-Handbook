@@ -1,12 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-
-## new gropu
-
-* [webpage](webpage.md)
-* [Untitled](untitled.md)
-* [20200112newpage](new-gropu/20200112newpage.md)
+* [To Merge](README.md)
 
 ## 三.垃圾回收
 
