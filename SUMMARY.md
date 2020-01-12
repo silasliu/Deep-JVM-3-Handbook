@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [To Merge](README.md)
 
 ## new gropu
 
-* [webpage](webpage.md)
-* [Untitled](untitled.md)
+* [webpage](new-gropu/webpage.md)
+* [Untitled](new-gropu/untitled.md)
 * [20200112newpage](new-gropu/20200112newpage.md)
 
 ## 2gr
 
 * [Untitled](2gr/untitled.md)
-* [Untitled](untitled-1.md)
+* [Untitled](2gr/untitled-1.md)
 
