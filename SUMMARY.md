@@ -8,8 +8,8 @@
 * [Untitled](untitled.md)
 * [20200112newpage](new-gropu/20200112newpage.md)
 
-## 2gr
+## 三.垃圾回收
 
-* [Untitled](2gr/untitled.md)
-* [Untitled](untitled-1.md)
+* [032-Object-Is-Alive](3-GC/032-Object-Is-Alive.md)
+* [034-Hotspot-VM-GC-Detail](3-GC/034-Hotspot-VM-GC-Detail.md)
 
